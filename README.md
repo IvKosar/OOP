@@ -1,10 +1,6 @@
-# OOP
+# OOP class projects
+APPS Faculty @UCU 2017
 
+Practice tasks: two extra assignments
 
-DONE: two practice tasks
-
-TODO: parser * 
-      additional assignment (game) * 
-      parser 2.0 * 
-      GameStore (Jenkins) * 
-      Character game NEW! * 
+Parser: first Rozetka parser based on existing Python parser (category: outlets) 
