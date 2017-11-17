@@ -1,2 +1,2 @@
 First Rozetka.com parser based on the existing Python parser *** 
-Category: outlets
+Category: GPS navigators
