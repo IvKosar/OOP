@@ -16,6 +16,6 @@ public class CSVwriter {
             }
             csvwriter.close();
         }
-        System.out.println(sentiments.size() + " reviews from " + url);
+
     }
 }

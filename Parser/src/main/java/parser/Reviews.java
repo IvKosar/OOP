@@ -34,5 +34,6 @@ public class Reviews {
                 Main.popular = url;
             }
         }
+        System.out.println(sentiments.size() + " reviews from " + url);
     }
 }
